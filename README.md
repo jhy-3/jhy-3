@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=jhy-3&show_icons=true&theme=transparent)
+![jhy-3's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhy-3&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhy-3&layout=compact&theme=tokyonight)
 
 - 🔭 I’m currently working on security, privacy, especially data protection on WEB3.
 - 🌱 I’m currently learning ZKP, HE and cross-chain.
